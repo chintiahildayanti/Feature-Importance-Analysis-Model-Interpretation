@@ -49,22 +49,6 @@ Langkah-langkah utama dalam analisis:
 - **Interpretability**:
   - Interpretasi model
 
-## 📈 Hasil & Insight
-
-- Beberapa fitur yang paling berpengaruh terhadap status nasabah antara lain:
-  - Total transaksi selama 12 bulan
-  - Jumlah produk yang dimiliki
-  - Jumlah kontak selama 12 bulan terakhir
-- SHAP value analysis membantu memahami **bagaimana** setiap fitur berkontribusi pada prediksi setiap individu
-
-## 🧰 Tools
-
-- Python
-- Pandas, NumPy (manipulasi data)
-- Scikit-learn (model dan evaluasi)
-- Matplotlib, Seaborn (visualisasi)
-- SHAP (interpretasi model)
-
 ## 🚀 How to Run
 
-1. Clone repository ini
+Clone repository ini, jalankan digoogle colab atau jupyter notebook
